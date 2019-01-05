@@ -1,0 +1,14 @@
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Services\bin\Debug\Services.dll.config
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Services\bin\Debug\Services.dll
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Services\bin\Debug\Services.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Services\bin\Debug\Data.dll
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Services\bin\Debug\EntityFramework.dll
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Services\bin\Debug\Models.dll
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Services\bin\Debug\Data.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Services\bin\Debug\Models.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Services\bin\Debug\EntityFramework.xml
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Services\obj\Debug\Services.dll
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Services\obj\Debug\Services.pdb

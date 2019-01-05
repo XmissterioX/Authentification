@@ -1,0 +1,15 @@
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Data\bin\Debug\Data.dll.config
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Data\bin\Debug\Data.dll
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Data\bin\Debug\Data.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Data\bin\Debug\EntityFramework.dll
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Data\bin\Debug\Models.dll
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Data\bin\Debug\Models.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Data\bin\Debug\EntityFramework.xml
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Data\obj\Debug\Data.dll
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Data\obj\Debug\Data.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Data\obj\Debug\Data.Migrations.M1.resources
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+C:\Users\USER\documents\visual studio 2015\Projects\Models\Data\obj\Debug\Data.Migrations.M2.resources
